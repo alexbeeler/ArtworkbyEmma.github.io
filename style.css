@@ -108,6 +108,7 @@ body {
   .footer {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     font-weight: bold;
     text-align: center;
 
